@@ -1,0 +1,31 @@
+# Eclipse / Spring Tools
+.metadata/
+.classpath
+.project
+.settings/
+
+# Maven
+target/
+*.class
+
+# Spring Boot secrets
+.env
+application-local.properties
+
+# Node / React
+node_modules/
+dist/
+.vite/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+DB_Queries/login_credintials.txt
